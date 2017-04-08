@@ -12,7 +12,11 @@
  * to "wp-config.php" and fill in the values.
  *
  * @package WordPress
- */
+ */  
+
+
+define('WP_HOME','http://d1dy7uhcai23f5.cloudfront.net');
+define('WP_SITEURL','http://d1dy7uhcai23f5.cloudfront.net');
 
 define('WP_REDIS_HOST', 'wordpress.vemhwv.ng.0001.apse1.cache.amazonaws.com');
  
