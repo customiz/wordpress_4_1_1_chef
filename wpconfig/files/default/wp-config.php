@@ -14,23 +14,23 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', 'tntest.vemhwv.ng.0001.apse1.cache.amazonaws.com');
+define('WP_REDIS_HOST', 'wordpress.vemhwv.ng.0001.apse1.cache.amazonaws.com');
  
-define('WP_HOME','d2cggj7408daxt.cloudfront.net');
-define('WP_SITEURL','d2cggj7408daxt.cloudfront.net');
+define('WP_HOME','dg0lvwbq158j9.cloudfront.net');
+define('WP_SITEURL','dg0lvwbq158j9.cloudfront.net');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'tntest');
+define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'tntest');
+define('DB_USER', 'wordpress');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'tntest1122');
+define('DB_PASSWORD', 'wordpress');
 
 /** MySQL hostname */
-define('DB_HOST', 'tntest.cij5prhdlh76.ap-southeast-1.rds.amazonaws.com');
+define('DB_HOST', 'idnetworkrds.cij5prhdlh76.ap-southeast-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
